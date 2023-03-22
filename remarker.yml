@@ -1,5 +1,12 @@
 dest: docs
 port: 30000
+title: Deno Deploy の紹介
+description: Deno Deploy で仕組み、出来ること、活用事例を紹介します。
+ogImage: "https://kt3k.github.io/talk_deno_deploy_2023/assets/og-image.png"
+ogImageWidth: 959
+ogImageHeight: 626
+twitter: kt3k
+favicon: ./assets/logo.svg
 remarkConfig:
   slideNumberFormat: '#edge_study Deno Deploy - %current% / %total%'
 css: |
